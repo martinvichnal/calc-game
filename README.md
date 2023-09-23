@@ -22,3 +22,5 @@ This is the repository of a simple calulator game that simulates a cashier every
 -   [Table of Contents](#table-of-contents)
 
 ---
+
+- [Github pages](https://github.com/gitname/react-gh-pages)
